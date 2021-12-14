@@ -3,7 +3,8 @@ Online Test Application - Online Quiz is an online test application that helps a
 This project was generated with Angular CLI version 13.0.1.
 
 # Demo URL
-
+  
+       Hosting URL: https://onlinetestapplication-e95ae.web.app
 
 # Development server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
